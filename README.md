@@ -33,3 +33,8 @@ A list of scholarships for international students to fund your MS/PhD in Compute
 | 27 | Swedish Scholarship Sweden                                                           | Masters | Jan                  | Multiple Universities             | Sweden              |
 | 28 | VLIR-UOS Scholarship Belgium                                                         | Masters | Oct                  | Belgian Flemish University        | Belgium             |
 | 29 | NZAID Scholarship New-Zealand                                                        | Masters | Mar                  | Multiple Universities             | New Zealand         |
+
+# Resources
+
+- [scholars4dev.com](http://www.scholars4dev.com/)
+- [grantfairy.com](https://www.grantfairy.com/)

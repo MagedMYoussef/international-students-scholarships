@@ -2,7 +2,7 @@
 
 A list of scholarships for international students to fund your MS/PhD in Computer Science.
 
-| ID | Name                                                                                 | Type                                                               | Deadline (Yearly) | University                        | Location            |
+| ID | Name                                                                                 | Program Type                                                       | Deadline (Yearly) | University                        | Location            |
 |----|--------------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------|-----------------------------------|---------------------|
 | 1  | Swedish Institute Scholarships for Global Professionals                              | ![#adff6e](https://placehold.it/15/adff6e/000000?text=+) `Masters` | Jan               | Swedish Institute                 | Sweden              |
 | 2  | Utrecht Excellence Scholarships for International Students                           | ![#adff6e](https://placehold.it/15/adff6e/000000?text=+) `Masters` | Jan               | Utrecht University                | Netherlands         |
